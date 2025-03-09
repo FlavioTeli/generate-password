@@ -6,7 +6,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  font-family: "Roboto", sans-serif;
+  font-family: "Helvetica Neue", Verdana;
 }
 
 .container {
@@ -19,7 +19,7 @@ body {
 
 h1 {
   color: #34d399;
-  width: 300px;
+  width: 400px;
   margin-bottom: 0;
 }
 
